@@ -22,6 +22,8 @@ Phạm vi (Universe): Tập trung vào nhóm cổ phiếu Ngành Ngân hàng (v�
 
 Lý do: Các cổ phiếu cùng ngành thường chịu tác động bởi các yếu tố vĩ mô giống nhau (lãi suất, chính sách nhà nước...), do đó chúng có xu hướng di chuyển cùng chiều (tương quan cao) và dễ hình thành mối quan hệ đồng tích hợp (Cointegration) - điều kiện tiên quyết cho Pairs Trading.
 
+!(close)
+
 Cấu trúc dữ liệu (Features): Mỗi file CSV bao gồm các trường thông tin tiêu chuẩn (OHLCV):
 
 time: Thời gian giao dịch (định dạng datetime).
